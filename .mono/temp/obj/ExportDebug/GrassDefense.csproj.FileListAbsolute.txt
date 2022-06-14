@@ -1,0 +1,9 @@
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\bin\ExportDebug\GrassDefense.dll
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\bin\ExportDebug\GrassDefense.pdb
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\obj\ExportDebug\GrassDefense.csproj.AssemblyReference.cache
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\obj\ExportDebug\GrassDefense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\obj\ExportDebug\GrassDefense.AssemblyInfoInputs.cache
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\obj\ExportDebug\GrassDefense.AssemblyInfo.cs
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\obj\ExportDebug\GrassDefense.csproj.CoreCompileInputs.cache
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\obj\ExportDebug\GrassDefense.dll
+C:\Users\tf2g3\Documents\GrassDefense_GODOT\.mono\temp\obj\ExportDebug\GrassDefense.pdb

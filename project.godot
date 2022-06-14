@@ -1,0 +1,38 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+[application]
+
+config/name="GrassDefense"
+run/main_scene="res://MainMenuScene.tscn"
+config/icon="res://icon.png"
+
+[autoload]
+
+Singletons="*res://Scripts/Singletons.cs"
+InteractiveSceneLoader="*res://Scripts/InteractiveSceneLoader.cs"
+
+[importer_defaults]
+
+texture={
+"flags/filter": false
+}
+
+[mono]
+
+export/aot/full_aot=true
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"
